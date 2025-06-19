@@ -136,8 +136,3 @@ If Python preprocessing is used (optional):
   git clone https://github.com/heyvishal08/Amazon-Engagement-Optimization-Dashboard.git
   cd Amazon-Engagement-Optimization-Dashboard
   pip install pandas numpy mysql-connector-python
-
-
-
-
-
