@@ -1,3 +1,6 @@
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
+
 # 📦 Amazon Engagement Optimization Dashboard
 
 > **Category:** Data Analytics · Business Intelligence  
@@ -118,6 +121,11 @@ Align **email and ad campaigns** with peak session timing to increase reach and 
 
 ---
 
+## 👤 Author
+
+Vishal Gupta
+[📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](itzmevishal08@gmail.com)
+
 ## ⚙️ Installation Instructions
 
 ### 1. 🐍 Set Up Environment
@@ -125,8 +133,11 @@ Align **email and ad campaigns** with peak session timing to increase reach and 
 If Python preprocessing is used (optional):
 
 ```bash
-git clone https://github.com/heyvishal08/Amazon-Engagement-Optimization-Dashboard.git
-cd Amazon-Engagement-Optimization-Dashboard
-pip install pandas numpy mysql-connector-python
+  git clone https://github.com/heyvishal08/Amazon-Engagement-Optimization-Dashboard.git
+  cd Amazon-Engagement-Optimization-Dashboard
+  pip install pandas numpy mysql-connector-python
+
+
+
 
 
