@@ -6,7 +6,7 @@
 > **Category:** Data Analytics · Business Intelligence  
 > **Date:** March 2025  
 > **Client:** Self-Initiated (Portfolio Project)  
-> [🔗 View More Projects](https://insightsbyme.framer.ai)
+> [🔗 View Project](https://insightsbyme.framer.ai/projects/amz)
 
 A data-driven Power BI dashboard that maps the entire **user journey on Amazon** — from first click to final purchase. It identifies critical drop-off points, pinpoints underperforming platforms, and uncovers actionable opportunities to optimize **engagement**, **conversion**, and **retention**.
 
