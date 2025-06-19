@@ -124,7 +124,7 @@ Align **email and ad campaigns** with peak session timing to increase reach and 
 ## 👤 Author
 
 Vishal Gupta
-[📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](itzmevishal08@gmail.com)
+[📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](mailto:itzmevishal08@gmail.com)
 
 ## ⚙️ Installation Instructions
 
