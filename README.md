@@ -121,18 +121,27 @@ Align **email and ad campaigns** with peak session timing to increase reach and 
 
 ---
 
+## ⚙️ Installation
+
+> This project assumes you're using a local Python environment. Replace with cloud infra if scaling.
+
+1. **Set Up Environment**
+   ```bash
+   git clone https://github.com/heyvishal08/Amazon-Engagement-Optimization-Dashboard.git
+   cd Amazon-Engagement-Optimization-Dashboard
+   pip install pandas numpy mysql-connector-python
+
+---
+
 ## 👤 Author
 
 Vishal Gupta
 [📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](mailto:itzmevishal08@gmail.com)
 
-## ⚙️ Installation Instructions
+---
 
-### 1. 🐍 Set Up Environment
+## ⚠️ Copyright Notice
 
-If Python preprocessing is used (optional):
+This project and its contents are the intellectual property of Vishal Gupta.
 
-```bash
-  git clone https://github.com/heyvishal08/Amazon-Engagement-Optimization-Dashboard.git
-  cd Amazon-Engagement-Optimization-Dashboard
-  pip install pandas numpy mysql-connector-python
+All rights reserved. You may not reuse, reproduce, or redistribute this project, in part or in full, for commercial or academic purposes without explicit permission.
