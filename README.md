@@ -1,10 +1,3 @@
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-
-> ⚠️ **Disclaimer:**  
-> This project is part of my personal data analytics portfolio.  
-> You are welcome to view it, but **reuse, modification, redistribution, or publishing** of any part (including `.pbix` or `.csv` files) is **strictly prohibited**.  
-> Protected under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
 # 📦 Amazon Engagement Optimization Dashboard
 
 > **Category:** Data Analytics · Business Intelligence  
@@ -125,21 +118,11 @@ Align **email and ad campaigns** with peak session timing to increase reach and 
 
 ---
 
-## ⚙️ Installation
-
-> This project assumes you're using a local Python environment. Replace with cloud infra if scaling.
-
-1. **Set Up Environment**
-   ```bash
-   git clone https://github.com/heyvishal08/Amazon-Engagement-Optimization-Dashboard.git
-   cd Amazon-Engagement-Optimization-Dashboard
-   pip install pandas numpy mysql-connector-python
-
----
-
 ## 👤 Author
 
 Vishal Gupta
 [📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](mailto:itzmevishal08@gmail.com)
 
 ---
+
+> “From clicks to conversions — this dashboard decodes user behavior to turn drop-offs into data-driven wins.”
